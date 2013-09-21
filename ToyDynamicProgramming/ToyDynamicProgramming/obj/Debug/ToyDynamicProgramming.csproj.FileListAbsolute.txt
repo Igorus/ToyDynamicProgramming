@@ -1,0 +1,6 @@
+C:\Users\Igor\Documents\GitHub\ToyDynamicProgramming\ToyDynamicProgramming\ToyDynamicProgramming\bin\Debug\ToyDynamicProgramming.exe.config
+C:\Users\Igor\Documents\GitHub\ToyDynamicProgramming\ToyDynamicProgramming\ToyDynamicProgramming\obj\Debug\ToyDynamicProgramming.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\ToyDynamicProgramming\ToyDynamicProgramming\ToyDynamicProgramming\bin\Debug\ToyDynamicProgramming.exe
+C:\Users\Igor\Documents\GitHub\ToyDynamicProgramming\ToyDynamicProgramming\ToyDynamicProgramming\bin\Debug\ToyDynamicProgramming.pdb
+C:\Users\Igor\Documents\GitHub\ToyDynamicProgramming\ToyDynamicProgramming\ToyDynamicProgramming\obj\Debug\ToyDynamicProgramming.exe
+C:\Users\Igor\Documents\GitHub\ToyDynamicProgramming\ToyDynamicProgramming\ToyDynamicProgramming\obj\Debug\ToyDynamicProgramming.pdb
